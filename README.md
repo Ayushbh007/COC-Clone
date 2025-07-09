@@ -2,8 +2,6 @@
 
 Terminal version of Clash of Clans using OOP concepts in Python.
 
-## Assignment 3.1
-
 - Everything mentioned in the assignment has been implemented.
 - **Bonus** :
     - King’s Leviathan Axe has also been implemented.
